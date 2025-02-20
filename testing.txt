@@ -3,3 +3,5 @@ testing for reusable workflow
 27qi9d9djmwdns77scbs
 yeifwdncbsj2283hdn
 #retesting
+This line has trailing spaces.    
+AWS_SECRET_ACCESS_KEY = "AKIAEXAMPLEKEY123456"
